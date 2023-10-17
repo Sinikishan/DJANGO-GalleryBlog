@@ -24,9 +24,9 @@ Quit the server with CTRL-BREAK.
 11. If you make any changes in the model.py file...
 
     Please apply migrations using this command
-    python manage.py make migrations 
-    python manage.py migrate
-    python manage.py run server
+   a.  python manage.py make migrations 
+   b.  python manage.py migrate
+   c.  python manage.py run server
 
   
     
