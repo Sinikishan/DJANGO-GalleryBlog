@@ -28,6 +28,12 @@ Quit the server with CTRL-BREAK.
    b.  python manage.py migrate
    c.  python manage.py run server
 
+1. In this, you will learn to connect MongoDB with Django code
+2. How to use images in DB in the Django Website
+3. How to perform CRUD operations
+   All the best
+
+
   
     
     
