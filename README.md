@@ -1,4 +1,4 @@
-# DJANGO-TRIAL
+# DJANGO-GalleryBlog
 This is a repository to trial the images from MongoDB in a website built using Django
 
 1. Install Anaconda Distribution - Python 3.7 and above preferred
@@ -30,6 +30,8 @@ Quit the server with CTRL-BREAK.
 
 1. In this, you will learn to connect MongoDB with Django code
 2. How to use images in DB in the Django Website
+3. Django Image retrieval from MongoDB - Usage of Djongo Engine and STATIC URL in Settings.py - https://youtu.be/0VAENL4m7qw
+4. Django Admin – MongoDB CRUD Operations  : https://youtu.be/mQRk19GvZgk
 
 # Django Blogsin
 This is a Django project! creating a blog, adding a blog post, and learning about Django Admin, etc.
@@ -43,7 +45,8 @@ Django Media files
 Django Model -View -Template Concept
 Django ListView, DetailView, CreateView
 
-Also Checkout the Djongo Project: Blogsin 
+Also Checkout the Djongo Project: Blogsin   https://github.com/Sinikishan/Django_Blogsin
+
 Django Getting Started:https://youtu.be/RQ8IwrhmJks
 
 Django Model-View -Template: https://youtu.be/CKMamM88y9U
@@ -60,14 +63,9 @@ Django User Authentication -Login -Register - Logout- is_authenticated? : https:
 
 Django -Upload Images -Media URL -  https://youtu.be/T1KodC7cT0I
 
-Also, Check out another Django Example Gallery blog -https://github.com/Sinikishan/DJANGO-GalleryBlog
-
-Django Image retrieval from MongoDB - Usage of Djongo Engine and STATIC URL in Settings.py - https://youtu.be/0VAENL4m7qw
-
-Django Admin – MongoDB CRUD Operations  : https://youtu.be/mQRk19GvZgk
 
 Troubleshooting #1 -No Auth Error: https://youtu.be/nEHTf8E3dcc
-3. How to perform CRUD operations
+How to perform CRUD operations
    All the best
 
 
